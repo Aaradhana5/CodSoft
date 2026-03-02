@@ -3,7 +3,7 @@ import java.util.*;
 public class Task1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to Chatbot");
+        System.out.println("Welcome to my Chatbot");
         Response re = new Response();
 
         while (true) {
@@ -78,3 +78,4 @@ class Response {
         return false;
     }
 }
+
